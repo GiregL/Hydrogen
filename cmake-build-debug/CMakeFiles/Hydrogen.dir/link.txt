@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hydrogen.dir/main.cpp.o CMakeFiles/Hydrogen.dir/Command.cpp.o  -o Hydrogen 

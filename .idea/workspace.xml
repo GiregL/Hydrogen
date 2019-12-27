@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Hydrogen" targetName="Hydrogen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76cbe32-47f3-44dd-9b6e-07698ab322e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="VLTwpUDR" />
+  </component>
+  <component name="ProjectId" id="1VP8s2HjVauiZWKt1HGzM2INqVc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Hydrogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Hydrogen" TARGET_NAME="Hydrogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Hydrogen" RUN_TARGET_NAME="Hydrogen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76cbe32-47f3-44dd-9b6e-07698ab322e3" name="Default Changelist" comment="" />
+      <created>1577143572550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577143572550</updated>
+      <workItem from="1577143577659" duration="5246000" />
+      <workItem from="1577287568814" duration="12379000" />
+      <workItem from="1577300741386" duration="844000" />
+      <workItem from="1577301682299" duration="108000" />
+      <workItem from="1577302487329" duration="48000" />
+      <workItem from="1577463323582" duration="6288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="277" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577295332592">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="693" y="277" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1577295332592" />
+    <state x="743" y="286" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577302514884">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="743" y="286" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1003@0.27.1920.1003" timestamp="1577302514884" />
+    <state width="1874" height="147" key="GridCell.Tab.0.bottom" timestamp="1577469851671">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state width="1874" height="147" key="GridCell.Tab.0.bottom/0.27.1920.1003@0.27.1920.1003" timestamp="1577469851671" />
+    <state width="1874" height="147" key="GridCell.Tab.0.center" timestamp="1577469851670">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state width="1874" height="147" key="GridCell.Tab.0.center/0.27.1920.1003@0.27.1920.1003" timestamp="1577469851670" />
+    <state width="1874" height="147" key="GridCell.Tab.0.left" timestamp="1577469851670">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state width="1874" height="147" key="GridCell.Tab.0.left/0.27.1920.1003@0.27.1920.1003" timestamp="1577469851670" />
+    <state width="1874" height="147" key="GridCell.Tab.0.right" timestamp="1577469851670">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state width="1874" height="147" key="GridCell.Tab.0.right/0.27.1920.1003@0.27.1920.1003" timestamp="1577469851670" />
+  </component>
+</project>

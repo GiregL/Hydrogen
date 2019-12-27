@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lezenn/CLionProjects/Hydrogen/Command.cpp
+Command.h
+/home/lezenn/CLionProjects/Hydrogen/Command.h
+iostream
+-
+unistd.h
+-
+cstdlib
+-
+sys/wait.h
+-
+sys/types.h
+-
+
+/home/lezenn/CLionProjects/Hydrogen/Command.h
+string
+-
+vector
+-
+
