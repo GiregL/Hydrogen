@@ -55,6 +55,7 @@ int Command::execute()
         return_code = pid;
     }
     std::cout << "Executed " << command_name << std::endl;
+    this->return_code = return_code;
     return return_code;
 }
 
